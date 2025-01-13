@@ -41,5 +41,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Rakshanshettyy/analytics-dashboard-assessment.git]
+   git clone https://github.com/Rakshanshettyy/analytics-dashboard-assessment.git
    cd ev-dashboard
